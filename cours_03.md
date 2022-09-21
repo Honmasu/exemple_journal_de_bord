@@ -15,7 +15,7 @@ Parlez de vos intérêts en multimédia.
 
 ### Emplois qui vous intéressent
 Nommez deux emplois.
-* animateur
+* Level designé
 * designer
 
 ### Identification
