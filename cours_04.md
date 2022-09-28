@@ -3,7 +3,7 @@
 Choisissez des emplois qui pourraient vous intéresser. 
 
 ### Emploi 1 - Modeleur 3D
-Ils réalisent des modèles 3D physique ou numérique. C'est à dire qu'il utilise des logiciel pour créer des moèle en trois dimension ou peuvent les créer directement avec la matière.Les modeleur 3D touche un vaste domaine car il peuvent travailler pour créer des nouveau produit ou des personnage pour des films/jeux vidéos. Ils ont de patience, de créativité, savoir utiliser les logiciel 2D et 3D, un coté artistique et une attention au détail. Ce métier m'interresse car j'ai toujour été curieux à propos du modelage.
+Ils réalisent des modèles 3D physique ou numérique. C'est à dire qu'il utilise des logiciel pour créer des modèle en trois dimension ou peuvent les créer directement avec la matière.Les modeleur 3D touche un vaste domaine car il peuvent travailler pour créer des nouveau produit ou des personnage pour des films/jeux vidéos. Ils ont de patience, de créativité, savoir utiliser les logiciel 2D et 3D, un coté artistique et une attention au détail. Ce métier m'interresse car j'ai toujour été curieux à propos du modelage.
 
 ### Emploi 2 - designer d'interaction
 Ils travaillent avec la plus récente technologie et avec le numérique mais il touche aussi au designe d'interface et d'expérience d'utilisateur. C'est un travail d'équipe car il est toujours en collaboration. Ils doivent bien connaitre les outils numérique, avoir un bon sens d'observation, être curieux, être creatif et un certain talent artistique.Ce qui m'intérresse est de travailler avec la nouvelle technologie sauf le travaille a l'aire stressant.
