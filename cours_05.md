@@ -10,4 +10,4 @@
 * mon temps de présentation était trop court donc je devrais ajouté plus de contenue et prendre plus mon temps à expliquer et à dire ce que je veut dire.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai bien aimer la présentation de Ian Corbin car j'ai remarqué avec sa présentation qu'on a à peut prêt les même intérret.
