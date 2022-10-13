@@ -5,4 +5,4 @@ Eidos
 * 2-Quel est le mode de vie dans la compagnie?
 * 3-Combien de temps prend la conception d'un jeux?
 * 4-Que doit t'on prendre en considération lorsqu'on entre dans le domaine des jeux vidéo?
-* 5-Quels sont les parties les plus ennervantes lors de creation de jeux?
+* 5-Quelles sont les parties les plus ennervantes lors de creation de jeux?
