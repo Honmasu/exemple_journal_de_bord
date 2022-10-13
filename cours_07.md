@@ -17,4 +17,4 @@ Pour être franc les deux première salle ne m'on pas trop plu parce que pas com
 
 ### Analyse critique
 
-Je crois que tant qu'à avoir la dernière salle interractive il devrait rendre les deux autre interractive aussi il devrait rendre les deux première salle moi longue. Dernièrement je crois que plus de salle serait bien tant qu'elle ne dure pas trop longtemps.
+Je crois que tant qu'à avoir la dernière salle interractive il devrait rendre les deux autre interractive aussi il devrait rendre les deux première salle moi longue. Dernièrement je crois que plus de salle serait bien tant qu'elle ne dure pas trop longtemps.i
