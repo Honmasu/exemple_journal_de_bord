@@ -8,7 +8,7 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
-Je m'interest beacoup à l'informatique et le multimedia, ce qui m'a poussé à rejoindre TIM. Un **plus** du program que j'ai su que lors des cours est l'interet mutuel du groupe, cette revelation me motive a travailler plus fort et de continuer le programme. Sans doute la partie artistique de TIM est ce qui m'attire le plus. Je ne suis pas le meilleur en art mais cela n'empèche pas ma passion pour le dessinage numerique. Cette dernière est la raison pour la quelle que je suis le plus motiver lors du cour d'illustration numérique. Donc pour conclure je n'est pas encore de métier précis en tête mais tant que je peux travailler avec de l'art/designe numérique ça me conviendra :ok_hand:.
+Je m'intérest beaucoup à l'informatique et le multimédia, ce qui m'a poussé à rejoindre TIM. Un **plus** du programme que j'ai su que lors des cours est l'intérêt mutuel du groupe, cette révélation me motive a travailler plus fort et de continuer le programme. Sans doute la partie artistique de TIM est ce qui m'attire le plus. Je ne suis pas le meilleur en art, mais cela n'empêche pas ma passion pour le dessinage numérique. Cette dernière est la raison pour laquelle que je suis le plus motiver lors du cours d'illustration numérique. Donc pour conclure je n'est pas encore de métier précis en tête mais tant que je peux travailler avec de l'art/designe numérique ça me conviendra :ok_hand:.
 
 *  :smile:
 *  :upside_down_face:
